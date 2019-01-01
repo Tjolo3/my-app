@@ -7,7 +7,7 @@
 
 ],
 "settings": {
-	"git.path": "C:\Progra~1\Git\cmd",
+	"git.path": "C:\\Progra~1\\Git\\cmd",
            // Git
             "git.enabled" : "true"
 }
