@@ -1,0 +1,14 @@
+{
+	"folders": [
+ 	{
+            // Git
+            "git.enabled" : "true"
+        },
+
+],
+"settings": {
+	"git.path": "C:\Progra~1\Git\cmd",
+           // Git
+            "git.enabled" : "true"
+}
+}
